@@ -1,0 +1,148 @@
+{
+  "project_info": {
+    "project_number": "88052174889",
+    "firebase_url": "https://fir-app-37941.firebaseio.com",
+    "project_id": "fir-app-37941",
+    "storage_bucket": "fir-app-37941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88052174889:android:7c2a63aefc384436",
+        "android_client_info": {
+          "package_name": "com.dinesh.sit.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88052174889-h3mkrlginqdcnmteg736kl45f56ts99u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dinesh.sit.firebaseapp",
+            "certificate_hash": "f1deaf42f75a600174212e3d8f014ac06cdc6ef8"
+          }
+        },
+        {
+          "client_id": "88052174889-vfa2h8o7e3isc5kta5r4a9h2nq1gov9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAaLbX2AQXEillkCmjFPp-WQiiq2jZTdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88052174889-vfa2h8o7e3isc5kta5r4a9h2nq1gov9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88052174889:android:5120ab4c32d75419",
+        "android_client_info": {
+          "package_name": "com.example.prejana.iotproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88052174889-vfa2h8o7e3isc5kta5r4a9h2nq1gov9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAaLbX2AQXEillkCmjFPp-WQiiq2jZTdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88052174889:android:0f48436e588b6716",
+        "android_client_info": {
+          "package_name": "com.example.prejana.myfirebasecrudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88052174889-vfa2h8o7e3isc5kta5r4a9h2nq1gov9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAaLbX2AQXEillkCmjFPp-WQiiq2jZTdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88052174889:android:2180f1a96f827390",
+        "android_client_info": {
+          "package_name": "com.example.sit.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88052174889-vfa2h8o7e3isc5kta5r4a9h2nq1gov9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAaLbX2AQXEillkCmjFPp-WQiiq2jZTdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
